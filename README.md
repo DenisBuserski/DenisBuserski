@@ -1,6 +1,6 @@
-## About me
+# Hi, I'm Denis
 
-My name is Denis and I am a student at the Software University (SoftUni) in Sofia. After 6 years in the Fitness and Health industry I decided I needed some change. Despite my successes as a Club Manager in one of the biggest fitness chains in Bulgaria, I needed something more. Even though the IT industry is completely new to me, I realized it will provide me with better and larger development opportunities.
+After 6 years in the Fitness and Health industry I decided I needed some change. Despite my successes as a Club Manager in one of the biggest fitness chains in Bulgaria, I needed something more. Even though the IT industry is completely new to me, I realized it will provide me with better and larger development opportunities.
 
 
 ![Denis BUserski's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisbuserski&show_icons=true&theme=github_dark)
