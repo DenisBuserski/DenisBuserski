@@ -1,19 +1,13 @@
 # Hi, I'm Denis
 
-After 6 years in the Fitness and Health industry I decided I needed some change. Despite my successes as a Club Manager in one of the biggest fitness chains in Bulgaria, I needed something more. Even though the IT industry is completely new to me, I realized it will provide me with better and larger development opportunities.
+After 6 years in the Fitness and Health industry I decided I needed some change. Despite my successes as a Club Manager in one of the biggest fitness chains in Bulgaria, I needed something more. Even though the IT industry is completely new to me, I realized it will provide me with better and larger development opportunities. I started learning at [SoftUni](https://softuni.bg/), where I learned the basics of programming. Now I'm in the final leg of my education where I'm learning Spring Boot.
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or contact me on my email address denis.buserski@gmail.com.
 
 
 ![Denis BUserski's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisbuserski&show_icons=true&theme=github_dark)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisbuserski&layout=compact)](https://github.com/denisbuserski/github-readme-stats) -->
 
-You can find me:
-
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/denis-buserski)
-[![Gmail](icons/gmail.png)](denis.buserski@gmail.com)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](denis.buserski@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/denis-buserski/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DenisBuserski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/denis_buserski?hr_r=1)   
 
 
 
