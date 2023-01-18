@@ -5,7 +5,7 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or contact me on my email address denis.buserski@gmail.com.
 
 
-![Denis BUserski's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisbuserski&show_icons=true&theme=github_dark)
+![Denis BUserski's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=denisbuserski&show_icons=true&theme=github_dark)
 
 
 
