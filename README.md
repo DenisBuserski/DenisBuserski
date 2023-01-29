@@ -9,7 +9,8 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or co
 
 
 
-https://github-profile-trophy.vercel.app/?username=denisbuserski&theme=tokyonight
+
+https://github-profile-trophy.vercel.app/?username=denisbuserski&margin-w=15
 
 
 
