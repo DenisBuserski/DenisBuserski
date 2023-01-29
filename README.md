@@ -4,6 +4,9 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or contact me on my email address denis.buserski@gmail.com.
 
+Technologies
+[![MySQL](icons/mysql-logo-48x48.png)](https://www.mysql.com/)
+
 
 ![Denis BUserski's GitHub stats](https://github-readme-stats.zohan.tech/api?username=denisbuserski&show_icons=true&theme=github_dark)
 
@@ -12,10 +15,10 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or co
 
 
 
-[![LinkedIn](icons/icons8-mysql-logo-48.png)](DEnis)
 
 
-[![LinkedIn](icons/icons8-mysql-logo-96.png)](DEnis)
+
+
 
 
 
