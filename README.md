@@ -15,6 +15,10 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or co
 [![LinkedIn](icons/icons8-mysql-logo-48.png)](DEnis)
 
 
+[![LinkedIn](icons/icons8-mysql-logo-96.png)](DEnis)
+
+
+
 
  
  
