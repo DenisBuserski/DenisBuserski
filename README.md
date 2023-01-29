@@ -10,7 +10,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or co
 
 
 
-https://github-profile-trophy.vercel.app/?username=denisbuserski&margin-w=15
+https://github-profile-trophy.vercel.app/?username=denisbuserski&no-bg=true
 
 
 
