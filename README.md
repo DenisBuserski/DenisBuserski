@@ -6,6 +6,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or co
 
 Technologies
 
+[![Java](icons/java-logo-48x48.png)](https://www.java.com/en/)
 [![MySQL](icons/mysql-logo-48x48.png)](https://www.mysql.com/)
 
 
