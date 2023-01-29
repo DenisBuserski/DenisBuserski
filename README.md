@@ -10,9 +10,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or co
 
 
 
-[![GMail](icons/gmail.png)](www.abv.bg)
-
-[![LinkedIn](icons/linkedin.png)](www.abv.bg)
+[![LinkedIn](icons/linkedin.png)]([www.abv.bg](https://www.linkedin.com/in/denis-buserski/))
 
 
 
