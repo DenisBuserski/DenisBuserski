@@ -10,6 +10,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or co
 [![MySQL](icons/mysql-logo-48x48.png)](https://www.mysql.com/)
 [![IntelliJ](icons/intellij-idea-48x48.png)](https://www.jetbrains.com/idea/)
 [![Git](icons/git-48x48.png)](https://git-scm.com/)
+[![Postman](postman-48x48.png)](https://www.postman.com/)
 
 
 ![Denis BUserski's GitHub stats](https://github-readme-stats.zohan.tech/api?username=denisbuserski&show_icons=true&theme=github_dark)
