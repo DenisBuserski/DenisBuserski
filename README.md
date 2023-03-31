@@ -13,6 +13,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or co
 [![Postman](icons/postman-48x48.png)](https://www.postman.com/)
 [![Elastic-search](icons/elastic-search-48x48.png)](https://www.elastic.co/)
 [![Jira](icons/jira-48x48.png)](https://www.atlassian.com/software/jira)
+[![Confluence](icons/jira-48x48.png)](https://www.atlassian.com/software/confluence)
 
 
 ![Denis BUserski's GitHub stats](https://github-readme-stats.zohan.tech/api?username=denisbuserski&show_icons=true&theme=github_dark)
