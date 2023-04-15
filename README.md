@@ -4,6 +4,8 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or contact me on my email address denis.buserski@gmail.com.
 
+### Connect with me:
+
 ### Technologies and tools:
 
 [![Java](icons/java-logo-48x48.png)](https://www.java.com/en/)
@@ -19,9 +21,11 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or co
 ![Denis BUserski's GitHub stats](https://github-readme-stats.zohan.tech/api?username=denisbuserski&show_icons=true&theme=github_dark)
 
 
+
+
+<p align="center">
 ## Certificates ##
-
-
+</p>
 
 
 
