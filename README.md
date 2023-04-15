@@ -31,7 +31,7 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 #### Java
 | Course        | Grade | Issue date | Certificate |
 | ------------- | ----- |------------|-------------|
-| Content Cell  | Content Cell  |
+| [MySQL course](https://softuni.bg/trainings/3602/mysql-january-2022)  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
