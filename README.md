@@ -22,11 +22,13 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or co
 
 
 
-## Certificates ##
+##  
 
+<p align="center">
+Certificates
+</p>
 
-
-
+##
 
 
 
