@@ -31,7 +31,20 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
 | [MySQL course](https://softuni.bg/trainings/3602/mysql-january-2022) | [Link](https://github.com/DenisBuserski/SoftUni-MySQL) | 6.00 | January 2022 | [MySQL certificate](https://softuni.bg/certificates/details/123474/63ee1aa3) |
-| Content Cell  | Content Cell  |
+| [Java OOP course](https://softuni.bg/trainings/3346/java-oop-june-2021) | [Link](https://github.com/DenisBuserski/SoftUni-Java-OOP) | 6.00 | October 2021 | [Java OOP certificate](https://softuni.bg/certificates/details/122281/0cba66a4) |
+| [Java Advanced course](https://softuni.bg/trainings/3345/java-advanced-may-2021) | [Link](https://github.com/DenisBuserski/SoftUni-Java-Advanced) | 6.00 | May 2021 | [Java Advanced certificate](https://softuni.bg/certificates/details/112328/579bc148) |
+| [Java Fundamentals course](https://softuni.bg/trainings/3212/java-fundamentals-january-2021) | [Link](https://github.com/DenisBuserski/SoftUni-Programming-Fundamentals-Java) | 6.00 | January 2021 | [Java Fundamentals certificate](https://softuni.bg/certificates/details/103432/147a8d10) |
+| [Java Basics course](https://softuni.bg/trainings/3063/programming-basics-with-java-september-2020) | [Link](https://github.com/DenisBuserski/SoftUni-Programming-Basics-Java) | 6.00 | November 2020 | [Java Basics certificate](https://softuni.bg/certificates/details/93759/e23b453a) |
+
+
+
+
+
+
+
+
+
+
 
 
 
