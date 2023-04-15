@@ -6,6 +6,8 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/denis-buserski/) or co
 
 ### Connect with me:
 
+[![Linkedin](icons/linkedin-48x48.png)](https://www.linkedin.com/in/denis-buserski/)
+
 ### Technologies and tools:
 
 [![Java](icons/java-logo-48x48.png)](https://www.java.com/en/)
