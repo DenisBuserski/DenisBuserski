@@ -6,9 +6,8 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 ### Connect with me:
 
 [![Linkedin](icons/linkedin-48x48.png)](https://www.linkedin.com/in/denis-buserski/)
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="icons/gmail-48x48.png" />
-</a>
+[![Gmail](icons/gmail-48x48.png)]()
+
 
 
 
