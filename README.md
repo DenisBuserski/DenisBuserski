@@ -29,6 +29,10 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 
 ### Certificates 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
