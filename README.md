@@ -21,6 +21,7 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 [![Jira](icons/jira-48x48.png)](https://www.atlassian.com/software/jira)
 [![Confluence](icons/confluence-48x48.png)](https://www.atlassian.com/software/confluence)
 [![Confluence](icons/grafana-48x48.png)](https://grafana.com/)
+[![SSH](ssh-48x48.png)](https://en.wikipedia.org/wiki/Secure_Shell)
 ##
 
 
