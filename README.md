@@ -31,6 +31,7 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
+| [Spring Data](https://softuni.bg/trainings/3592/spring-data-february-2022) | | | |
 | [MySQL course](https://softuni.bg/trainings/3602/mysql-january-2022) | [Link](https://github.com/DenisBuserski/SoftUni-MySQL) | 6.00 | January 2022 | [MySQL certificate](https://softuni.bg/certificates/details/123474/63ee1aa3) |
 | [Java OOP course](https://softuni.bg/trainings/3346/java-oop-june-2021) | [Link](https://github.com/DenisBuserski/SoftUni-Java-OOP) | 6.00 | October 2021 | [Java OOP certificate](https://softuni.bg/certificates/details/122281/0cba66a4) |
 | [Java Advanced course](https://softuni.bg/trainings/3345/java-advanced-may-2021) | [Link](https://github.com/DenisBuserski/SoftUni-Java-Advanced) | 6.00 | May 2021 | [Java Advanced certificate](https://softuni.bg/certificates/details/112328/579bc148) |
