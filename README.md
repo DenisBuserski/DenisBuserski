@@ -32,7 +32,7 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
-| [Spring Data](https://softuni.bg/trainings/3592/spring-data-february-2022) | [Link](https://github.com/DenisBuserski/Softuni-Spring-Data) | | |
+| SQL Intermediate | | | [SQL Intermediate Certificate]() |
 | [MySQL course](https://softuni.bg/trainings/3602/mysql-january-2022) | [Link](https://github.com/DenisBuserski/SoftUni-MySQL) | 6.00 | January 2022 | [MySQL certificate](https://softuni.bg/certificates/details/123474/63ee1aa3) |
 | Java Basic | | | October 2021 | [Java Bacis certificate](https://www.hackerrank.com/certificates/9e6912d6219d) |
 | [Java OOP course](https://softuni.bg/trainings/3346/java-oop-june-2021) | [Link](https://github.com/DenisBuserski/SoftUni-Java-OOP) | 6.00 | October 2021 | [Java OOP certificate](https://softuni.bg/certificates/details/122281/0cba66a4) |
