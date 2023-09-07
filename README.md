@@ -26,6 +26,7 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 
 
 ![Denis BUserski's GitHub stats](https://github-readme-stats.zohan.tech/api?username=denisbuserski&show_icons=true&theme=github_dark)
+##
 
 
 ### How to ...
