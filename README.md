@@ -3,7 +3,7 @@
 After 6 years in the Fitness and Health industry I decided I needed some change. Despite my successes as a Club Manager in one of the biggest fitness chains in Bulgaria, I needed something more. Even though the IT industry is completely new to me, I realized it will provide me with better and larger development opportunities. I started learning at [SoftUni](https://softuni.bg/), where I learned the basics of programming. Now I'm in the final leg of my education where I'm learning Spring Boot.
 
 
-## Connect with me:
+### Connect with me:
 
 [![Linkedin](icons/linkedin-48x48.png)](https://www.linkedin.com/in/denis-buserski/)
 [![Gmail](icons/gmail-48x48.png)](mailto:denis.buserski@gmail.com)
@@ -31,7 +31,7 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 
 ### How to ...
 
-### &rtrif; [How to use jOOQ(Java Object Oriented Querying)](https://github.com/DenisBuserski/jOOQ)
+#### &rtrif; [How to use jOOQ(Java Object Oriented Querying)](https://github.com/DenisBuserski/jOOQ)
 ##
 
 
