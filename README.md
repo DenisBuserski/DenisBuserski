@@ -7,7 +7,8 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 
 [![Linkedin](icons/linkedin-48x48.png)](https://www.linkedin.com/in/denis-buserski/)
 [![Gmail](icons/gmail-48x48.png)](mailto:denis.buserski@gmail.com)
-[![Stack Overflow](icons/stack-overflow-48x48.png)]()
+[![Stack Overflow](icons/stack-overflow-48x48.png)](https://stackoverflow.com/users/17831294/denis-buserski)
+[![HackerRank](icons/)](https://www.hackerrank.com/denis_buserski)
 ##
 
 
