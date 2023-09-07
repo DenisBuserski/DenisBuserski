@@ -29,7 +29,9 @@ After 6 years in the Fitness and Health industry I decided I needed some change.
 
 
 ### How to ...
-- How to use jOOQ(Java)
+- [How to use jOOQ(Java Object Oriented Querying)](https://github.com/DenisBuserski/jOOQ)
+##
+
 
 ### Certificates & Courses
 
