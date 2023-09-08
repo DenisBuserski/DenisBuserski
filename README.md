@@ -4,7 +4,7 @@ I began my journey in the tech world by signing up for [SoftUni's](https://softu
 
 Unlike most people, it was hard for me in the beginning. The first obstacle I faced was during the very beginning when I had issues with the "while loop". Back then it was really hard for me to understand and use it. Knowing this is something really basic, I started to solve as many problems as possible, on "while loops" and I was able to go from "zero to hero". 
 
-Following this first setback, now when I face any difficulties in the new things, I learn I always go back that "while loop" situation, knowing that if I put enough time and efforts in the problem, I will overpass it.
+Following this first setback, now when I face any difficulties in the new things, I learn I always go back to that "while loop" situation, knowing that if I put enough time and efforts in the problem, I will overpass it.
 
 
 ### Connect with me:
