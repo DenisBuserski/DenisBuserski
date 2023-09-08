@@ -1,6 +1,8 @@
 # Hi, I'm Denis
 
-After 6 years in the Fitness and Health industry I decided I needed some change. Despite my successes as a Club Manager in one of the biggest fitness chains in Bulgaria, I needed something more. Even though the IT industry is completely new to me, I realized it will provide me with better and larger development opportunities. I started learning at [SoftUni](https://softuni.bg/), where I learned the basics of programming. Now I'm in the final leg of my education where I'm learning Spring Boot.
+I began my journey in the tech world by signing up for [SoftUni](https://softuni.bg/)'s free 2-month Programming basics course at the end of 2020. Having a completely different background, this was something totally new for me. Back then I didn't make any research on which language to choose. When signing to the course, I could pick from Java, C#, JavaScript, and Python. Following the little knowledge I had by that time, I choose Java, because when I was a kid, I played lots of online games and sometimes, I got the Java icon on my screen not knowing what it meant. Thus, I could say that's why I decided to start and continue with it afterward. 
+Unlike most people, it was hard for me in the beginning. The first obstacle I faced was during the very beginning when I had issues with the "while loop". Back then it was really hard for me to understand and use it. Knowing this is something really basic, I started to solve as many problems as possible, on "while loops" and I was able to go from "zero to hero". 
+Following this first setback, now when I face any difficulties in the new things, I learn I always go back that "while loop" situation, knowing that if I put enough time and efforts in the problem, I will overpass it.
 
 
 ### Connect with me:
