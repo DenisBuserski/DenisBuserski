@@ -1,7 +1,9 @@
 # Hi, I'm Denis
 
 I began my journey in the tech world by signing up for [SoftUni's](https://softuni.bg/) free 2-month Programming basics course at the end of 2020. Having a completely different background, this was something totally new for me. Back then I didn't make any research on which language to choose. When signing to the course, I could pick from Java, C#, JavaScript, and Python. Following the little knowledge I had by that time, I choose Java, because when I was a kid, I played lots of online games and sometimes, I got the Java icon on my screen not knowing what it meant. Thus, I could say that's why I decided to start and continue with it afterward. 
+
 Unlike most people, it was hard for me in the beginning. The first obstacle I faced was during the very beginning when I had issues with the "while loop". Back then it was really hard for me to understand and use it. Knowing this is something really basic, I started to solve as many problems as possible, on "while loops" and I was able to go from "zero to hero". 
+
 Following this first setback, now when I face any difficulties in the new things, I learn I always go back that "while loop" situation, knowing that if I put enough time and efforts in the problem, I will overpass it.
 
 
