@@ -41,7 +41,7 @@ Following this first setback, now when I face any difficulties in the new things
 ##
 
 
-### Certificates & Courses
+### Certificates 
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
