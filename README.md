@@ -38,6 +38,7 @@ Following this first setback, now when I face any difficulties in the new things
 ### How to ...
 
 #### &rtrif; [How to use jOOQ(Java Object Oriented Querying)](https://github.com/DenisBuserski/jOOQ)
+#### &rtrif; [How to use Git](https://github.com/DenisBuserski/Git)
 ##
 
 
