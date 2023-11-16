@@ -46,10 +46,10 @@ Following this first setback, now when I face any difficulties in the new things
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
-| [Introduction to Cyber Security](https://www.mygreatlearning.com/academy/courses/7416999/12628#?utm_source=share_with_friends&gl_source=share_with_friends) | | | November 2023 | [Certificate](https://github.com/DenisBuserski/DenisBuserski/blob/main/certificates/Great-Learning-Introduction-To-Cyber-Security-NOV-2023.pdf) |
+| [Introduction to Cyber Security](https://www.mygreatlearning.com/academy/courses/7416999/12628#?utm_source=share_with_friends&gl_source=share_with_friends) | | | November 2023 | [Certificate](https://verify.mygreatlearning.com/verify/IDPYBIYJ) |
 | [Linux Tutorial](https://www.mygreatlearning.com/academy/courses/7416999/52823#?utm_source=share_with_friends&gl_source=share_with_friends) | | | October 2023 | [Certificate](https://verify.mygreatlearning.com/verify/GGUSHIUK) |
 | [Introduction to Information Security](https://www.mygreatlearning.com/academy/courses/7416999/11264#?utm_source=share_with_friends&gl_source=share_with_friends) | | | September 2023 | [Certificate](https://verify.mygreatlearning.com/verify/SOOJJIUR) |
-| [Excel VBA for Beginners](https://www.mygreatlearning.com/academy/courses/7416999/88881#?utm_source=share_with_friends&gl_source=share_with_friends) | | | May 2023 | [Certificate](https://github.com/DenisBuserski/DenisBuserski/blob/main/certificates/Great-Learning-Excel-VBA-For-Beginners-MAY-2023.pdf) |
+| [Excel VBA for Beginners](https://www.mygreatlearning.com/academy/courses/7416999/88881#?utm_source=share_with_friends&gl_source=share_with_friends) | | | May 2023 | [Certificate](https://verify.mygreatlearning.com/verify/ROADMPFM) |
 | SQL Intermediate | | | May 2023 | [SQL Intermediate certificate](https://www.hackerrank.com/certificates/2978528b6aea) | 
 | [ITIL](https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-4-foundation-2565) | | | February 2023 | [ITIL certificate](https://github.com/DenisBuserski/DenisBuserski/blob/main/certificates/ITIL-Certificate-February-2023.pdf) |
 | [Data Structure & Algorithms in Java for Intermediate Level](https://www.mygreatlearning.com/academy/courses/7416999/39049#?utm_source=share_with_friends&gl_source=share_with_friends) | | | January 2023 | [Certificate](https://verify.mygreatlearning.com/verify/PZXZXKJI) |
