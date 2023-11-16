@@ -46,7 +46,8 @@ Following this first setback, now when I face any difficulties in the new things
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
-| Linux Tutorial | | | October 2023 | [Certificate](https://github.com/DenisBuserski/DenisBuserski/blob/main/certificates/Great-Learning-Linux-Tutorial-OCT-2023.pdf)
+| Linux Tutorial | | | October 2023 | [Certificate](https://github.com/DenisBuserski/DenisBuserski/blob/main/certificates/Great-Learning-Linux-Tutorial-OCT-2023.pdf) |
+| Introduction to Information Security | | | | September 2023 | [Certificate](https://github.com/DenisBuserski/DenisBuserski/blob/main/certificates/Great-Learning-Introduction-To-Information-Security-SEP-2023.pdf)
 | SQL Intermediate | | | May 2023 | [SQL Intermediate certificate](https://www.hackerrank.com/certificates/2978528b6aea) | 
 | ITIL | | | February 2023 | [ITIL certificate](https://github.com/DenisBuserski/DenisBuserski/blob/main/certificates/ITIL-Certificate-February-2023.pdf)
 | Data Structure & Algorithms in Java for Intermediate Level | | | January 2023 | [Certificate](https://verify.mygreatlearning.com/verify/PZXZXKJI) |
