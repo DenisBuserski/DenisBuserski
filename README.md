@@ -51,7 +51,7 @@ Following this first setback, now when I face any difficulties in the new things
 | [Excel VBA for Beginners](https://www.mygreatlearning.com/academy/courses/7416999/88881#?utm_source=share_with_friends&gl_source=share_with_friends) | | | May 2023 | [Certificate](https://github.com/DenisBuserski/DenisBuserski/blob/main/certificates/Great-Learning-Excel-VBA-For-Beginners-MAY-2023.pdf) |
 | SQL Intermediate | | | May 2023 | [SQL Intermediate certificate](https://www.hackerrank.com/certificates/2978528b6aea) | 
 | ITIL | | | February 2023 | [ITIL certificate](https://github.com/DenisBuserski/DenisBuserski/blob/main/certificates/ITIL-Certificate-February-2023.pdf) |
-| Data Structure & Algorithms in Java for Intermediate Level | | | January 2023 | [Certificate](https://verify.mygreatlearning.com/verify/PZXZXKJI) |
+| [Data Structure & Algorithms in Java for Intermediate Level](https://www.mygreatlearning.com/academy/courses/7416999/39049#?utm_source=share_with_friends&gl_source=share_with_friends) | | | January 2023 | [Certificate](https://verify.mygreatlearning.com/verify/PZXZXKJI) |
 | SQL Basics | | | February 2022 | [SQL Basics certificate](https://www.hackerrank.com/certificates/012185103a0d) |
 | [MySQL course](https://softuni.bg/trainings/3602/mysql-january-2022) | [Link](https://github.com/DenisBuserski/SoftUni-MySQL) | 6.00 | January 2022 | [MySQL certificate](https://softuni.bg/certificates/details/123474/63ee1aa3) |
 | Java Basic | | | October 2021 | [Java Bacis certificate](https://www.hackerrank.com/certificates/9e6912d6219d) |
