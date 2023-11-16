@@ -47,6 +47,7 @@ Following this first setback, now when I face any difficulties in the new things
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
 | SQL Intermediate | | | May 2023 | [SQL Intermediate certificate](https://www.hackerrank.com/certificates/2978528b6aea) | 
+| ITIL | | | | February 2023 | [ITIL certificate](https://github.com/DenisBuserski/DenisBuserski/blob/main/certificates/ITIL-Certificate-February-2023.pdf)
 | Data Structures & Algorithms | | | January 2023 | [Data Structures & Algorithms certificate](https://verify.mygreatlearning.com/verify/PZXZXKJI) |
 | SQL Basics | | | February 2022 | [SQL Basics certificate](https://www.hackerrank.com/certificates/012185103a0d) |
 | [MySQL course](https://softuni.bg/trainings/3602/mysql-january-2022) | [Link](https://github.com/DenisBuserski/SoftUni-MySQL) | 6.00 | January 2022 | [MySQL certificate](https://softuni.bg/certificates/details/123474/63ee1aa3) |
