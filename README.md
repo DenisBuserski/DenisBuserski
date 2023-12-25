@@ -26,9 +26,9 @@ Following this first setback, now when I face any difficulties in the new things
 [![Elastic-search](icons/elastic-search-48x48.png)](https://www.elastic.co/)
 [![logstash](icons/logstash-48x48.png)](https://www.elastic.co/logstash)
 [![Kibana](icons/kibana-48x48.png)](https://www.elastic.co/kibana)
+[![Grafana](icons/grafana-48x48.png)](https://grafana.com/)
 [![Jira](icons/jira-48x48.png)](https://www.atlassian.com/software/jira)
 [![Confluence](icons/confluence-48x48.png)](https://www.atlassian.com/software/confluence)
-[![Confluence](icons/grafana-48x48.png)](https://grafana.com/)
 [![SSH](icons/ssh-48x48.png)](https://en.wikipedia.org/wiki/Secure_Shell)
 ##
 
