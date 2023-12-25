@@ -24,6 +24,8 @@ Following this first setback, now when I face any difficulties in the new things
 [![Git](icons/git-48x48.png)](https://git-scm.com/)
 [![Postman](icons/postman-48x48.png)](https://www.postman.com/)
 [![Elastic-search](icons/elastic-search-48x48.png)](https://www.elastic.co/)
+[![logstash](icons/logstash-48x48.png)](https://www.elastic.co/)
+[![Kibana](icons/kibana-48x48.png)](https://www.elastic.co/)
 [![Jira](icons/jira-48x48.png)](https://www.atlassian.com/software/jira)
 [![Confluence](icons/confluence-48x48.png)](https://www.atlassian.com/software/confluence)
 [![Confluence](icons/grafana-48x48.png)](https://grafana.com/)
