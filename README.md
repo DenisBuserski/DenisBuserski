@@ -48,6 +48,7 @@ Following this first setback, now when I face any difficulties in the new things
 
 | Course        | GitHub repo | Grade | Issue date | Certificate |
 | ------------- | ----------- | ----- | ---------- | ----------- |
+| [Introduction to DevOps](https://www.mygreatlearning.com/academy/courses/7416999/38652#?utm_source=share_with_friends&gl_source=share_with_friends) | | | December 2023 | [Certificate](https://verify.mygreatlearning.com/verify/ZBXWAIAT) |
 | [How to make a LinkedIn Profile](https://www.mygreatlearning.com/academy/courses/7416999/55465#?utm_source=share_with_friends&gl_source=share_with_friends) | | | December 2023 | [Certificate](https://verify.mygreatlearning.com/QDHNSIRZ) |
 | SQL Advanced | | | December 2023 | [SQL Advanced certificate](https://www.hackerrank.com/certificates/95b644429c68)
 | [Introduction to Cyber Security](https://www.mygreatlearning.com/academy/courses/7416999/12628#?utm_source=share_with_friends&gl_source=share_with_friends) | | | November 2023 | [Certificate](https://verify.mygreatlearning.com/verify/IDPYBIYJ) |
