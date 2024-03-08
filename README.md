@@ -8,7 +8,7 @@ Following this first setback, now when I face any difficulties in the new things
 
 [![Quote](https://quotes-github-readme.vercel.app/api?quote=&type=horizontal&theme=algolia&border=true)](Code never lies, comments sometimes do.)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?author=RonJeffries&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ### Connect with me:
