@@ -6,7 +6,7 @@ Unlike most people, it was hard for me in the beginning. The first obstacle I fa
 
 Following this first setback, now when I face any difficulties in the new things, I learn I always go back to that "while loop" situation, knowing that if I put enough time and efforts in the problem, I will overpass it.
 
-[![Code](https://quotes-github-readme.vercel.app/api??quote=code&type=horizontal&theme=algolia&border=true)](Code)
+[![Quote](https://quotes-github-readme.vercel.app/api??quote=Code never lies, comments sometimes do.&type=horizontal&theme=algolia&border=true)](Quote)
 
 ### Connect with me:
 
