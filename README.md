@@ -8,6 +8,9 @@ Following this first setback, now when I face any difficulties in the new things
 
 [![Quote](https://quotes-github-readme.vercel.app/api??quote=Code never lies, comments sometimes do.&type=horizontal&theme=algolia&border=true)](Quote)
 
+> "Your quote here."
+> - Author Name
+
 ### Connect with me:
 
 [![Linkedin](icons/linkedin-48x48.png)](https://www.linkedin.com/in/denis-buserski/)
