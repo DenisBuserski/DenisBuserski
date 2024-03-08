@@ -6,9 +6,8 @@ Unlike most people, it was hard for me in the beginning. The first obstacle I fa
 
 Following this first setback, now when I face any difficulties in the new things, I learn I always go back to that "while loop" situation, knowing that if I put enough time and efforts in the problem, I will overpass it.
 
-Code never lies, comments sometimes do.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=CODE&author=Ron%20Jeffries&type=horizontal&theme=algolia&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Code%20never%20lies,%20comments%20sometimes%20do.&author=Ron%20Jeffries&type=horizontal&theme=algolia&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ### Connect with me:
