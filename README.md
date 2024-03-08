@@ -8,7 +8,7 @@ Following this first setback, now when I face any difficulties in the new things
 
 Code never lies, comments sometimes do.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=CODE&author=RonJeffries&type=horizontal&theme=algolia&border=tru)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=CODE&author=Ron%20Jeffries&type=horizontal&theme=algolia&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ### Connect with me:
