@@ -22,6 +22,7 @@ Following this first setback, now when I face any difficulties in the new things
 ### Technologies and tools:
 
 [![Java](icons/java-logo-48x48.png)](https://www.java.com/en/)
+[![Spring](icons/spring-logo-48x48.png)](https://spring.io/)
 [![MySQL](icons/mysql-logo-48x48.png)](https://www.mysql.com/)
 [![IntelliJ](icons/intellij-idea-48x48.png)](https://www.jetbrains.com/idea/)
 [![Git](icons/git-48x48.png)](https://git-scm.com/)
