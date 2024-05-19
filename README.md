@@ -41,7 +41,7 @@ Following this first setback, now when I face any difficulties in the new things
 ##
 
 
-### How to ...
+### Projects
 
 #### &rtrif; [Java Object Oriented Querying(jOOQ)](https://github.com/DenisBuserski/jOOQ)
 #### &rtrif; [Simple Git tutorial](https://github.com/DenisBuserski/Git)
