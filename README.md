@@ -33,7 +33,7 @@ Following this first setback, now when I face any difficulties in the new things
 [![Grafana](icons/grafana-48x48.png)](https://grafana.com/)
 [![Jira](icons/jira-48x48.png)](https://www.atlassian.com/software/jira)
 [![Confluence](icons/confluence-48x48.png)](https://www.atlassian.com/software/confluence)
-[![SSH](icons/ssh-48x48.png)](https://en.wikipedia.org/wiki/Secure_Shell)
+[![Docker](icons/docker-48x48.png)](https://www.docker.com/)
 ##
 
 
