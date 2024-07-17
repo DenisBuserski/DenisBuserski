@@ -26,6 +26,7 @@ Following this first setback, now when I face any difficulties in the new things
 [![IntelliJ](icons/intellij-idea-48x48.png)](https://www.jetbrains.com/idea/)
 [![MySQL](icons/mysql-logo-48x48.png)](https://www.mysql.com/)
 [![Git](icons/git-48x48.png)](https://git-scm.com/)
+[![Docker](icons/docker-48x48.png)](https://www.docker.com/)
 [![Postman](icons/postman-48x48.png)](https://www.postman.com/)
 [![Elastic-search](icons/elastic-search-48x48.png)](https://www.elastic.co/)
 [![logstash](icons/logstash-48x48.png)](https://www.elastic.co/logstash)
@@ -33,7 +34,6 @@ Following this first setback, now when I face any difficulties in the new things
 [![Grafana](icons/grafana-48x48.png)](https://grafana.com/)
 [![Jira](icons/jira-48x48.png)](https://www.atlassian.com/software/jira)
 [![Confluence](icons/confluence-48x48.png)](https://www.atlassian.com/software/confluence)
-[![Docker](icons/docker-48x48.png)](https://www.docker.com/)
 ##
 
 
