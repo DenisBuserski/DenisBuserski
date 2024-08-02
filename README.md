@@ -26,7 +26,7 @@ Following this first setback, now when I face any difficulties in the new things
 [![Git](icons/git-48x48.png)](https://git-scm.com/)
 [![Docker](icons/docker-48x48.png)](https://www.docker.com/)
 [![K8s](icons/k8s-48x48.png)](https://kubernetes.io/)
-[![Jenkins](icons/jenkins-48x48.png)](https://kubernetes.io/)
+[![Jenkins](icons/jenkins-48x48.png)](https://www.jenkins.io/)
 [![IntelliJ](icons/intellij-idea-48x48.png)](https://www.jetbrains.com/idea/)
 [![MySQL](icons/mysql-logo-48x48.png)](https://www.mysql.com/)
 [![Postman](icons/postman-48x48.png)](https://www.postman.com/)
