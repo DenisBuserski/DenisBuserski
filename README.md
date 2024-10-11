@@ -40,6 +40,8 @@ Following this first setback, now when I face any difficulties in the new things
 [![Grafana](icons/grafana-48x48.png)](https://grafana.com/)
 [![Jira](icons/jira-48x48.png)](https://www.atlassian.com/software/jira)
 [![Confluence](icons/confluence-48x48.png)](https://www.atlassian.com/software/confluence)
+[![Bitbucket](icons/bitbucket-48x48.png)](https://bitbucket.org/product/)
+[![GitLab](icons/gitlab-48x48.png)](https://about.gitlab.com/)
 ##
 
 
