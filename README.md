@@ -27,6 +27,7 @@ Following this first setback, now when I face any difficulties in the new things
 [![Docker](icons/docker-48x48.png)](https://www.docker.com/)
 [![K8s](icons/k8s-48x48.png)](https://kubernetes.io/)
 [![Argo-CD](icons/argo-cd-48x48.png)](https://argoproj.github.io/cd/)
+[![Vault-HashiCorp](icons/vault-hashicorp-48x48.png)](https://www.vaultproject.io/)
 [![OpenGitOps](icons/opengitops-48x48.png)](https://opengitops.dev/)
 [![Kafka](icons/kafka-48x48.png)](https://kafka.apache.org/)
 [![Jenkins](icons/jenkins-48x48.png)](https://www.jenkins.io/)
