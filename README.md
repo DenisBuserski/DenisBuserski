@@ -37,6 +37,7 @@ Following this first setback, now when I face any difficulties in the new things
 [![Grafana](icons/grafana-48x48.png)](https://grafana.com/)
 [![Jira](icons/jira-48x48.png)](https://www.atlassian.com/software/jira)
 [![Confluence](icons/confluence-48x48.png)](https://www.atlassian.com/software/confluence)
+[![OpenGitOps](icons/opengitops.png)](https://opengitops.dev/)
 ##
 
 
