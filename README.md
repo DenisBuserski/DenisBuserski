@@ -32,6 +32,7 @@ Following this first setback, now when I face any difficulties in the new things
 [![Kafka](icons/kafka-48x48.png)](https://kafka.apache.org/)
 [![Jenkins](icons/jenkins-48x48.png)](https://www.jenkins.io/)
 [![IntelliJ](icons/intellij-idea-48x48.png)](https://www.jetbrains.com/idea/)
+[![PyCharm](icons/pycharm-48x48.png)](https://www.jetbrains.com/pycharm/)
 [![MySQL](icons/mysql-logo-48x48.png)](https://www.mysql.com/)
 [![Postman](icons/postman-48x48.png)](https://www.postman.com/)
 [![Elastic](icons/elastic-search-48x48.png)](https://www.elastic.co/)
