@@ -23,6 +23,7 @@ Following this first setback, now when I face any difficulties in the new things
 
 [![Java](icons/java-logo-48x48.png)](https://www.java.com/en/)
 [![Spring](icons/spring-logo-48x48.png)](https://spring.io/)
+[![JUnit](icons/junit-48x48.png)](https://junit.org/junit5/)
 [![Python](icons/python-48x48.png)](https://www.python.org/)
 [![Git](icons/git-48x48.png)](https://git-scm.com/)
 [![Docker](icons/docker-48x48.png)](https://www.docker.com/)
