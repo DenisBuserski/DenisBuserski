@@ -37,6 +37,7 @@ Following this first setback, now when I face any difficulties in the new things
 [![PyCharm](icons/pycharm-48x48.png)](https://www.jetbrains.com/pycharm/)
 [![MySQL](icons/mysql-logo-48x48.png)](https://www.mysql.com/)
 [![Postman](icons/postman-48x48.png)](https://www.postman.com/)
+[![FileZilla](icons/filezilla-48x48.png)](https://filezilla-project.org/)
 [![Elastic](icons/elastic-search-48x48.png)](https://www.elastic.co/)
 [![Logstash](icons/logstash-48x48.png)](https://www.elastic.co/logstash)
 [![Kibana](icons/kibana-48x48.png)](https://www.elastic.co/kibana)
