@@ -25,6 +25,7 @@ Following this first setback, now when I face any difficulties in the new things
 [![Spring](icons/spring-logo-48x48.png)](https://spring.io/)
 [![JUnit](icons/junit-48x48.png)](https://junit.org/junit5/)
 [![Python](icons/python-48x48.png)](https://www.python.org/)
+[![Linux](icons/linux-48x48.png)](https://www.linux.org/)
 [![Git](icons/git-48x48.png)](https://git-scm.com/)
 [![Docker](icons/docker-48x48.png)](https://www.docker.com/)
 [![K8s](icons/k8s-48x48.png)](https://kubernetes.io/)
