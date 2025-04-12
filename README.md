@@ -15,7 +15,7 @@ Following this first setback, now when I face any difficulties in the new things
 [![Linkedin](icons/linkedin-48x48.png)](https://www.linkedin.com/in/denis-buserski/)
 [![Gmail](icons/proton-48x48.png)](mailto:denis.buserski@protonmail.com)
 [![Stack Overflow](icons/stack-overflow-48x48.png)](https://stackoverflow.com/users/17831294/denis-buserski)
-[![HackerRank](icons/hackerrank-48x48.png)](https://www.hackerrank.com/denis_buserski)
+[![HackerRank](icons/hackerrank-48x48.png)](https://www.hackerrank.com/profile/db27mountain)
 ##
 
 
