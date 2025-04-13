@@ -24,12 +24,10 @@ Following this first setback, now when I face any difficulties in the new things
 [![Java](icons/java-logo-48x48.png)](https://www.java.com/en/)
 [![Spring](icons/spring-logo-48x48.png)](https://spring.io/)
 [![Quarkus](icons/quarkus-48x48.png)](https://quarkus.io/)
-
-
-
 [![JUnit](icons/junit-48x48.png)](https://junit.org/junit5/)
 [![Python](icons/python-48x48.png)](https://www.python.org/)
 [![MySQL](icons/mysql-logo-48x48.png)](https://www.mysql.com/)
+[![Liquibase](icons/liquibase-48x48.png)](https://www.liquibase.com/)
 [![Linux](icons/linux-48x48.png)](https://www.linux.org/)
 [![Git](icons/git-48x48.png)](https://git-scm.com/)
 [![Docker](icons/docker-48x48.png)](https://www.docker.com/)
