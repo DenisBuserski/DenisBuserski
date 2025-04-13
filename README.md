@@ -23,6 +23,10 @@ Following this first setback, now when I face any difficulties in the new things
 
 [![Java](icons/java-logo-48x48.png)](https://www.java.com/en/)
 [![Spring](icons/spring-logo-48x48.png)](https://spring.io/)
+[![Quarkus](icons/quarkus-48x48.png)](https://quarkus.io/)
+
+
+
 [![JUnit](icons/junit-48x48.png)](https://junit.org/junit5/)
 [![Python](icons/python-48x48.png)](https://www.python.org/)
 [![MySQL](icons/mysql-logo-48x48.png)](https://www.mysql.com/)
