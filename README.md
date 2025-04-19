@@ -53,4 +53,4 @@ Following this first setback, now when I face any difficulties in the new things
 ##
 
 
-![Denis BUserski's GitHub stats](https://github-readme-stats.zohan.tech/api?username=denisbuserski&show_icons=true&theme=github_dark)
+
