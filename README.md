@@ -50,4 +50,5 @@ Following this first setback, now when I face any difficulties in the new things
 [![Bitbucket](icons/bitbucket-48x48.png)](https://bitbucket.org/product/)
 [![GitLab](icons/gitlab-48x48.png)](https://about.gitlab.com/)
 [![Nexus](icons/nexus-48x48.png)](https://www.sonatype.com/products/sonatype-nexus-repository)
+[![Nexus](icons/locust-48x48.png)](https://www.sonatype.com/products/sonatype-nexus-repository)
 
