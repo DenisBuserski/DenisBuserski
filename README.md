@@ -27,6 +27,7 @@ Following this first setback, now when I face any difficulties in the new things
 [![JUnit](icons/junit-48x48.png)](https://junit.org/junit5/)
 [![Python](icons/python-48x48.png)](https://www.python.org/)
 [![MySQL](icons/mysql-logo-48x48.png)](https://www.mysql.com/)
+[![Redis](icons/redis-48x48.png)](https://redis.io/)
 [![Liquibase](icons/liquibase-48x48.png)](https://www.liquibase.com/)
 [![Linux](icons/linux-48x48.png)](https://www.linux.org/)
 [![Git](icons/git-48x48.png)](https://git-scm.com/)
