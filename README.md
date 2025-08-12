@@ -18,6 +18,10 @@ Following this first setback, now when I face any difficulties in the new things
 [![HackerRank](icons/hackerrank-48x48.png)](https://www.hackerrank.com/profile/db27mountain)
 ##
 
+### Live projects:
+
+[Password Generator](https://db-password-generator.onrender.com/)
+##
 
 ### Technologies and tools:
 
